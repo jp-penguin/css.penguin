@@ -1,0 +1,13 @@
+{
+  "name": "css.penguin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:jp-penguin/css.penguin.git",
+  "author": "Jared Parkinson <jared@parkinson.im>",
+  "license": "MIT",
+  "devDependencies": {
+    "sass": "^1.10.0",
+    "sasslint": "^0.0.10",
+    "stylelint-config-recommended": "^2.1.0"
+  }
+}
